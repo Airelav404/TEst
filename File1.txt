@@ -8,3 +8,4 @@ commit test
 666
 Add line
 new branch line
+new line for GUI
